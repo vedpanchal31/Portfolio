@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#08090b"/>
+  <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#23242c" stroke-width="2"/>
+  <text x="80" y="260" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="22" fill="#2dd4bf">FULL-STACK DEVELOPER</text>
+  <text x="80" y="340" font-family="Inter, ui-sans-serif, sans-serif" font-size="64" font-weight="700" fill="#e9e9ee">Ved Panchal</text>
+  <text x="80" y="400" font-family="Inter, ui-sans-serif, sans-serif" font-size="26" fill="#9a9ba7">React.js · Next.js · TypeScript · NestJS</text>
+</svg>
