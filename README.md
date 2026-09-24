@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate, results-driven **Full-Stack Developer** with **1+ years of production experience** delivering enterprise web applications, scalable frontend architectures, and high-performance backend APIs.
+I am a passionate, results-driven **Full-Stack Developer** with **2+ years of production experience** delivering enterprise web applications, scalable frontend architectures, and high-performance backend APIs.
 
 Currently working at **Wappnet Systems Pvt. Ltd.** in Ahmedabad, I specialize in architecting modern **React.js** and **Next.js** applications powered by **TypeScript**, backed by **NestJS** and **Node.js** services, and styled with **Tailwind CSS**. I have a strong track record of engineering reusable design systems, cutting down network overhead through smart state management, and optimizing web vitals for blazing-fast user experiences.
 
@@ -67,7 +67,7 @@ Currently working at **Wappnet Systems Pvt. Ltd.** in Ahmedabad, I specialize in
 ## 💼 Professional Experience
 
 ### **Software Developer** — [Wappnet Systems Pvt. Ltd.](https://wappnet.com)
-*Ahmedabad, India | January 2024 – Present (1+ Years)*
+*Ahmedabad, India | January 2024 – Present (2+ Years)*
 
 - **Frontend Architecture & UI Systems:** Delivered production-grade React.js and Next.js applications supporting multi-tenant workflows with cross-browser and cross-device consistency.
 - **State Management & Network Efficiency:** Architected scalable Redux Toolkit and RTK Query state solutions, reducing duplicate API requests by **~40%**.

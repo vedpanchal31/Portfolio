@@ -6,7 +6,7 @@ export const experience: ExperienceItem[] = [
     role: 'Software Developer',
     location: 'Ahmedabad, India',
     period: 'January 2024 – Present',
-    duration: '1+ Years',
+    duration: '2+ Years',
     status: 'Current Role · Full-Time',
     summary:
       'Driving frontend architecture, design system development, and high-performance React/Next.js engineering across multiple production business workflows.',
